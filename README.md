@@ -26,7 +26,7 @@ All you have to do is input the necessary spends on a daily basis and the sheet 
 
 If you can, account for input dates and make the budget account for a 12 month period with accompanying charts, great!
 
-PS: Your charts should be on a different sheet from the budget calculator
+PS: Your charts should be on a different sheet from the budget calculator.
 
 
 
