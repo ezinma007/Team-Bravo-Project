@@ -26,11 +26,11 @@ All you have to do is input the necessary spends on a daily basis and the sheet 
 
 If you can, account for input dates and make the budget account for a 12 month period with accompanying charts, great!
 
-PS: Your charts should be on a different sheet from the budget calculator
+PS: Your charts should be on a different sheet from the budget calculator.
 
 
 
-**Project Activities Report**
+# Project Activities Report
 **Team Bravo** project centered on creating an automated budget Spreadsheet. Spreadsheet was a topic TEAM BRAVO members were not familiar with. The team lead advised the team to take some time and get acquainted with the topic. After which, the team came together and in order to complete the project before the due date, went straight to business. The team lead then assigned roles to each team member.
 
 **Chioma Nwagu** was assigned to create an Expense and Income form that will be directly linked to the Expense and Income spreadsheet. These forms were a way to put in various incomes and Expenses that had been filled in the forms into their respective sheets.She filled the income form from January to November 2022 and was also assigned to build the main dashboard.
