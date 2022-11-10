@@ -4,8 +4,7 @@
 # Team Bravo List
 
 
-
-**MEMBERS**
+# MEMBERS
 1. Nnoli Armstrong Chinwendu
 2. Olajumoke Aiyesa
 3. Vivian Chiemela Adirichukwu
