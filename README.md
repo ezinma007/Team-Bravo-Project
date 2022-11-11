@@ -4,7 +4,8 @@
 # Team Bravo List
 
 
-# MEMBERS
+
+**MEMBERS**
 1. Nnoli Armstrong Chinwendu
 2. Olajumoke Aiyesa
 3. Vivian Chiemela Adirichukwu
@@ -12,14 +13,6 @@
 5. Arimah Ezinma
 
 
-# LINKS
-
-
-Google Drive
-https://drive.google.com/drive/folders/1gLlnhZTQ5J-LgeiClKLIpXIBP65OnwCx?usp=sharing
-
-Click Up
-https://app.clickup.com/42085731/v/s/66174560
 
 
 
@@ -33,7 +26,7 @@ All you have to do is input the necessary spends on a daily basis and the sheet 
 
 If you can, account for input dates and make the budget account for a 12 month period with accompanying charts, great!
 
-PS: Your charts should be on a different sheet from the budget calculator.
+# This is the link to the report: [here](https://drive.google.com/drive/u/2/folders/1gLlnhZTQ5J-LgeiClKLIpXIBP65OnwCx?usp=sharing)
 
 
 
